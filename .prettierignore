@@ -1,0 +1,8 @@
+dist
+node_modules
+
+.eslintrc.yml
+.prettierrc.json
+package-lock.json
+package.json
+tailwind.config.js
