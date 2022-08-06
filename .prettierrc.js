@@ -15,7 +15,7 @@ module.exports = {
 	bracketSpacing: true,
 	arrowParens: 'always',
 	printWidth: 200,
-	pugSingleQuote: 'true',
+	// pugSingleQuote: true,
 	pugAttributeSeparator: 'always',
 	pugClassNotation: 'attribute',
 	pugIdNotation: 'as-is',
