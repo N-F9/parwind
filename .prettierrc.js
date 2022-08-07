@@ -15,7 +15,7 @@ module.exports = {
 	bracketSpacing: true,
 	arrowParens: 'always',
 	printWidth: 200,
-	// pugSingleQuote: true,
+	// pugSingleQuote: true, // https://github.com/prettier/prettier/issues/9204
 	pugAttributeSeparator: 'always',
 	pugClassNotation: 'attribute',
 	pugIdNotation: 'as-is',
