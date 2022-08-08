@@ -2,7 +2,7 @@
 	"scripts": {
 		"format": "npx prettier --write .",
 		"start": "npm run format && rm -rf dist .cache .parcel-cache && parcel src/*.{html,pug} src/**/*.{html,pug}",
-		"build": "parcel build src/*.{html,pug} src/**/*.{html,pug}"
+		"build": "rm -rf dist .cache .parcel-cache && parcel build src/*.{html,pug} src/**/*.{html,pug}"
 	},
 	"devDependencies": {
 		"@parcel/packager-raw-url": "^2.6.2",
