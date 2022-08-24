@@ -4,4 +4,4 @@ Parwind is a general-purpose website template that utilizes various technologies
 
 You can host with [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), or any other host.
 
-For the best possible developing experience when using VSCode, I recommend installing some Intellisense plugins like [Path](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) and [Tailwind](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss).
+For the best possible developing experience when using VSCode, I recommend installing some Intellisense plugins like [Path](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) and [Tailwind](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss); other than that, you should be good to go.
