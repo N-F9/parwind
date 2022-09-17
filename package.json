@@ -12,7 +12,7 @@
 		"@parcel/transformer-sass": "^2.7.0",
 		"@parcel/transformer-webmanifest": "^2.7.0",
 		"@prettier/plugin-pug": "^2.2.0",
-		"@types/node": "^18.7.14",
+		"@types/node": "^18.7.18",
 		"parcel": "^2.7.0",
 		"postcss": "^8.4.16",
 		"prettier": "^2.7.1",
